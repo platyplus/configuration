@@ -1,5 +1,6 @@
 serveur-id-bidon:
-  path: serveur-id-bidon
+  path:
+    - serveur-id-bidon
   port: 3000
 autre-serveur:
   path:
